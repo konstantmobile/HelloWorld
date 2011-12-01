@@ -10,6 +10,6 @@ public class DemoSvnActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
-        
+        //test now on svn
     }
 }
